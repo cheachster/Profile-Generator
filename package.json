@@ -1,0 +1,24 @@
+{
+  "name": "Profile-Generator",
+  "version": "1.0.0",
+  "description": "Profile Generator homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheachster/Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheachster/Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/cheachster/Profile-Generator#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "inquirer": "^7.0.0"
+  }
+}
